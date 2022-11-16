@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Beva.BookStore/bin/Debug/netcoreapp3.1
+/Beva.BookStore/obj
+/Beva.BookStore/.vs/Beva.BookStore/v16
+/.vs
